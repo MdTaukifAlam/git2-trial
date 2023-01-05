@@ -8,3 +8,19 @@ factor++;
 }
 (factor==2) ? console.log("prime") : console.log("not a prime number");
 
+
+
+
+// 2 Number
+let n=level;
+let bag="";
+for(let i=n.length-1; i>=0; i--){
+	bag=bag+n[i]
+}
+if(bag==str){
+console.log(Its palindrone))
+}
+else{
+console.log(Its not palindrone);
+
+
